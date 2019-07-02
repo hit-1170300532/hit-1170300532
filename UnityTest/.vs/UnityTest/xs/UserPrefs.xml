@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{03FB2056-251D-5424-624C-AD3996B1095C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HelloWorld.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="23" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="HelloWorld.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d95c56fd-71b6-432c-9b2e-eeaa22d8c65e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zhangenshang/unitys/UnityTest/Assets/HelloWorld.cs" relfile="Assets/HelloWorld.cs" line="21" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
